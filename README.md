@@ -1,3 +1,3 @@
 # hello-world
 1st repository
-I love :skiing:
+I love :tea:
